@@ -2,6 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![Build Status](https://travis-ci.org/brianjking/awesome-project-management.svg?branch=master)](https://travis-ci.org/brianjking/awesome-project-management)
 
 ## Description
 
@@ -19,7 +20,7 @@ Purpose is...
 * [Trello](http://trello.com)
 * [Asana](https://asana.com/)
 * [Basecamp 3](https://basecamp.com)
-* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
+* [Jira](https://jira.com)
 * [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
