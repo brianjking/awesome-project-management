@@ -31,6 +31,7 @@ Purpose is...
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
 * [Clubhouse](https://clubhouse.io) 
+* [Taskade](https://taskade.com) - React based collaborative task lists.
 
 
 
