@@ -30,7 +30,7 @@ Purpose is...
 * [Taiga](https://taiga.io/) - Agile, Free, Open Source Project Management Tool based on the Kanban and Scrum methods.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
-* [Clubhouse](https://clubhouse.io) 
+* [Clubhouse](https://clubhouse.io) - Written in Clojure
 * [Taskade](https://taskade.com) - React based collaborative task lists.
 
 
